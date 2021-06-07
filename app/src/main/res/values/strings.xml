@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin App</string>
+    <string name="message">Hello.\nWelcome Back</string>
+</resources>
