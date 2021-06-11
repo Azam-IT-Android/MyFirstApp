@@ -39,7 +39,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="4dp"
-        android:text="x"
+        android:text="✕"
         app:layout_constraintBottom_toTopOf="@+id/number_8"
         app:layout_constraintStart_toEndOf="@+id/division" />
 
